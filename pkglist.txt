@@ -1,4 +1,5 @@
 acpi
+acpi_call
 acpid
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-otc-fonts
@@ -13,14 +14,12 @@ base
 base-devel
 bat
 bind
-bleachbit
 blueman
 bluez
 bluez-utils
 boo-sddm-git
 brave-bin
 brightnessctl
-btrfs-progs
 catppuccin-gtk-theme-mocha
 cava
 cliphist
@@ -33,7 +32,6 @@ dialog
 discord
 dnsmasq
 dosfstools
-dupeguru
 efibootmgr
 eog
 eog-plugins
@@ -57,7 +55,6 @@ gnome-tweaks
 graphite-gtk-theme-black-git
 grim
 grub
-grub-btrfs
 gst-plugin-pipewire
 gtk-engine-murrine
 gvfs
@@ -74,6 +71,7 @@ hyprlock
 hyprpicker
 iniparser
 inotify-tools
+intel-ucode
 inter-font
 iw
 jq
@@ -96,7 +94,6 @@ lsix
 lua51
 luarocks
 lutgen-bin
-mlocate
 most
 mpv
 mtools
@@ -122,12 +119,14 @@ papirus-folders-catppuccin-git
 papirus-icon-theme
 parsec-bin
 paru-bin
+paru-bin-debug
 pavucontrol
 pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
 playerctl
+plocate
 polkit-gnome
 poppler-glib
 posy-improved-cursors
@@ -152,12 +151,14 @@ rsync
 rtmpdump
 rustup
 sddm
+seahorse
 slurp
 smartmontools
 sof-firmware
 speech-dispatcher
 spotify
 sshfs
+sudo
 swaync
 swww
 terminus-font
@@ -166,8 +167,6 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-shares-plugin
 thunar-volman
-timeshift
-timeshift-autosnap
 tldr
 ttf-anonymous-pro
 ttf-bitstream-vera
@@ -206,8 +205,6 @@ usbutils
 vdhcoapp-bin
 vifm
 visual-studio-code-bin
-vivaldi
-vivaldi-ffmpeg-codecs
 w3m
 waybar
 waybar-module-pacman-updates-git
@@ -216,7 +213,6 @@ wev
 wezterm
 wf-recorder
 wget
-wireplumber
 wl-clipboard
 wlogout-git
 wtype
@@ -231,5 +227,5 @@ yadm
 yt-dlp
 zellij
 zoxide
-zramd
+zramswap
 zsh
