@@ -19,7 +19,6 @@ bluez
 bluez-utils
 boo-sddm-git
 brave-bin
-brightnessctl
 catppuccin-gtk-theme-mocha
 cava
 cliphist
@@ -184,6 +183,7 @@ ttf-ibm-plex
 ttf-inconsolata
 ttf-iosevka
 ttf-jetbrains-mono
+ttf-jetbrains-mono-nerd
 ttf-joypixels
 ttf-junicode
 ttf-liberation
