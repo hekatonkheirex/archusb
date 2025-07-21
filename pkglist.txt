@@ -1,5 +1,4 @@
 acpi
-acpi_call
 acpid
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-otc-fonts
@@ -85,9 +84,9 @@ libgsf
 libheif
 libsixel
 light
-linux
 linux-firmware
-linux-headers
+linux-zen
+linux-zen-headers
 localsend-bin
 lsix
 lua51
@@ -109,6 +108,7 @@ nss-mdns
 ntfs-3g
 ntp
 nwg-look
+onlyoffice-bin
 openssh
 openssl-1.1
 pacman-contrib

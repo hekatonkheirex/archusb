@@ -1,6 +1,6 @@
 configuration {
   modi: "drun,emoji:rofimoji --action copy --max-recent 0";
-  font: "Rubik Bold 24px";
+  font: "Product Sans Bold 24px";
   icon-theme: "Papirus-Dark";
   show-icons: true;
   display-drun: ">_";
